@@ -1,0 +1,24 @@
+<admission_info>
+
+	<student>
+		<sl_no>  23  </sl_no>
+		<name> John_Carter </name>
+		<date> 25/12/2015 </date>
+               
+	</student>
+
+	<student>
+		<SL_no>  29  </SL_no>
+		<name> Bob_Marshal </name>
+		<date> 13/01/1990 </date>
+               
+	</student>
+
+        <student>
+		<SL_no>  35  </SL_no>
+		<name> Clark_Kent </name>
+		<date> 17/06/2005 </date>
+               
+	</student>
+
+</admission_info> 
