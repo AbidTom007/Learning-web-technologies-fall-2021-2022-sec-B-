@@ -1,0 +1,46 @@
+<employee_info>
+	<employee>
+		<name> John_Doe </name>
+
+                <address>
+                 <house_no> 38 </house_no>
+                 <road_num> 3 </road_num>
+                 <area> Banani </area>
+                 <district> Dhaka </district>
+                </address>
+
+                <dept> Sales </dept>
+		<salary> $20000 </salary>
+
+	</employee>
+
+	
+	<employee>
+              	<name> Mark_Zuckerberg </name>
+
+                <address>
+                 <house_no> A/1_H#20 </house_no>
+                 <road_num> 18 </road_num>
+                 <area> Mirpur </area>
+                 <district> Dhaka </district>
+                </address>
+
+                <dept> Accounts </dept>
+		<salary> $12000 </salary>
+	</employee>
+
+        
+	<employee>
+		<name> Ala_Voski </name>
+
+                <address>
+                 <house_no> 38 </house_no>
+                 <road_num> 3 </road_num>
+                 <area> Motijheel </area>
+                 <district> Dhaka </district>
+                </address>
+
+                <dept> Human_Resource </dept>
+		<salary> $30000 </salary>
+	</employee>
+</employee_info> 
