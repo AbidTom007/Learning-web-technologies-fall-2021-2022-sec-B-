@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <Cellphones>
 	<cellphone>
 		<id>11</id>
@@ -23,4 +24,31 @@
                 <stock> 100 </stock>
                 <status>  1  </status>
 	</cellphone>
+=======
+<Cellphones>
+	<cellphone>
+		<id>11</id>
+		<name> SAMSUNG </name>
+		<price> 35000 </price>
+                <stock> 50 </stock>
+                <status>  1  </status>
+
+	</cellphone>
+
+	<cellphone>
+		<id>  20 </id>
+		<name> HTC </name>
+		<price> 65300 </price>
+                <stock> 35 </stock>
+                <status>  0  </status>
+	</cellphone>
+
+        <cellphone>
+		<id> 23 </id>
+		<name> Nokia </name>
+		<price> 25100 </price>
+                <stock> 100 </stock>
+                <status>  1  </status>
+	</cellphone>
+>>>>>>> 2c22c993628fb7cf05335de04f1001fc65e4c44a
 </Cellphones> 
