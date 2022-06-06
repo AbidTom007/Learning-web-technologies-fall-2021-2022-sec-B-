@@ -1,0 +1,40 @@
+<!Doctype html>
+<head>
+	<title>Recruite</title>
+</head>
+<body>
+	<table>
+		<tr>
+		<td width="20%">
+			<a href="../views/WorkerHome.php">HOME</a> 
+		</td>
+		</tr>
+
+		<tr>
+		<td colspan="2">
+			<form method="POST" action="../controller/Sub.php">
+				<fieldset>
+					<legend><b><h1>Subordinates Info.</h1></b></legend>
+					<b>Name:</b><br>
+					<input type="text" name="Name" value=""><br>
+                    <br><b>GENDER:</b><br>
+                    <input type="radio" name="gender" value="Male">Male<br>
+					<input type="radio" name="gender" value="Female">Female<br>
+					<input type="radio" name="gender" value="Others">Others..<br><br>
+					<b>Date of Birth:</b><br>
+					<input type="text" name="dob" value=""> /
+					<input type="text" name="mob" value=""> /
+					<input type="text" name="yob" value=""> <i style="Color:Red">(dd/mm/yyyy)</i><br><br>
+					<b>Phone:</b><br>
+					<input type="text" name="number" value=""><br><br>
+                    <b>Specialized at:</b><br>
+					<input type="text" name="Speciality" value=""><br>
+					<br>
+					<input type="submit" name="submit" value="ADD">
+				</fieldset>
+			</form>
+		</td>
+		</tr>
+	</table>
+</body>
+</html>
